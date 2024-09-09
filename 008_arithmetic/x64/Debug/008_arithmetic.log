@@ -1,0 +1,4 @@
+﻿  008_arithmetic.cpp
+C:\Users\konyang\source\repos\programming2024\008_arithmetic\008_arithmetic.cpp(26,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\konyang\source\repos\programming2024\008_arithmetic\008_arithmetic.cpp(27,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  008_arithmetic.vcxproj -> C:\Users\konyang\source\repos\programming2024\x64\Debug\008_arithmetic.exe
